@@ -1,0 +1,9 @@
+{
+	"name": "internshiprojecttcs",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9eafa02b-f219-491f-a1f1-54ed88ac9f39",
+		"tenantId": "4001e375-31b4-4f03-b7d2-cb95ac6f5ff7"
+	}
+}

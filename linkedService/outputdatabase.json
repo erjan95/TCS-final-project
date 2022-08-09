@@ -1,0 +1,12 @@
+{
+	"name": "outputdatabase",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=tcsinternship.database.windows.net;initial catalog=SQL_data_internship;user id=erjan95",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEU4Nzg1N0FBLTQ1OTYtNDNFMC1BNjhGLTFFMjQ4OTcxODU4Ql9kMzViZjdlYy0wMDlhLTQ2YTQtYjRmNy0wYzE4NDQ0MjE4MTIiDQp9"
+		}
+	}
+}
